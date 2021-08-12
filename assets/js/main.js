@@ -23,14 +23,14 @@ const app = {
             id: 1,
             name: "This is RAP VIET",
             singer: "HLV và GK Rap Việt",
-            path: "../../../Music Player/assets/audio/rapViet.mp3",
-            image: "../../../Music Player/assets/img/rapViet.jpg"
+            path: ".../../assets/audio/rapViet.mp3",
+            image: ".../../assets/img/rapViet.jpg"
         },
         {
             id: 2,
             name: "Dog in The Car",
             singer: "TLinh",
-            path: "./assets/audio/chootoTlinh.mp3",
+            path: ".../../assets/audio/chootoTlinh.mp3",
             image: ".../../assets/img/chootoTlinh.jpg",
         },
         {
@@ -44,36 +44,36 @@ const app = {
             id: 4,
             name: "What's a Lot Of Money for",
             singer: "GDucky ",
-            path: ".../../../Music Player/assets/audio/moneyGducky.mp3",
-            image: ".../../../Music Player/assets/img/moneyGducky.jpg"
+            path: ".../../assets/audio/moneyGducky.mp3",
+            image: ".../../assets/img/moneyGducky.jpg"
         },
         {
             id: 5,
             name: "Because you are so beautiful",
             singer: "Thành Draw",
-            path: ".../../../Music Player/assets/audio/sodepDraw.mp3",
-            image: ".../../../Music Player/assets/img/sodepDraw.jpg"
+            path: ".../../assets/audio/sodepDraw.mp3",
+            image: ".../../assets/img/sodepDraw.jpg"
         },
         {
             id: 6,
             name: "Rich for You, Sang For Wife",
             singer: "RPT MCK",
-            path: ".../../../Music Player/assets/audio/sovoMCK.mp3",
-            image: ".../../../Music Player/assets/img/sovoMCK.jpg"
+            path: ".../../assets/audio/sovoMCK.mp3",
+            image: ".../../assets/img/sovoMCK.jpg"
         },
         {
             id: 7,
             name: "Who is he?",
             singer: "16 Typh",
-            path: ".../../../Music Player/assets/audio/who16Typh.mp3",
-            image: ".../../../Music Player/assets/img/who16Typh.jpg"
+            path: ".../../assets/audio/who16Typh.mp3",
+            image: ".../../assets/img/who16Typh.jpg"
         },
         {
             id: 8,
             name: "My Iron Leather",
             singer: "Tez",
-            path: ".../../../Music Player/assets/audio/wukongTez.mp3",
-            image: ".../../../Music Player/assets/img/wukongTez.jpg"
+            path: ".../../assets/audio/wukongTez.mp3",
+            image: ".../../assets/img/wukongTez.jpg"
         }
     ],
     defineProperties: function() {
