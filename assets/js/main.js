@@ -23,8 +23,8 @@ const app = {
             id: 1,
             name: "This is RAP VIET",
             singer: "HLV và GK Rap Việt",
-            path: ".../../../Music Player/assets/audio/rapViet.mp3",
-            image: ".../../../Music Player/assets/img/rapViet.jpg"
+            path: "../../../Music Player/assets/audio/rapViet.mp3",
+            image: "../../../Music Player/assets/img/rapViet.jpg"
         },
         {
             id: 2,
