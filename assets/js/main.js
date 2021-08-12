@@ -30,15 +30,15 @@ const app = {
             id: 2,
             name: "Dog in The Car",
             singer: "TLinh",
-            path: ".../../../Music Player/assets/audio/chootoTlinh.mp3",
-            image: ".../../../Music Player/assets/img/chootoTlinh.jpg",
+            path: "./assets/audio/chootoTlinh.mp3",
+            image: ".../../assets/img/chootoTlinh.jpg",
         },
         {
             id: 3,
             name: "Sparrows and Strawberries",
             singer: "Wowy, Dế Choắt",
-            path: ".../../../Music Player/assets/audio/king.mp3",
-            image: ".../../../Music Player/assets/img/king.jpg"
+            path: ".../../assets/audio/king.mp3",
+            image: ".../../assets/img/king.jpg"
         },
         {
             id: 4,
